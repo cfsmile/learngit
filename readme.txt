@@ -7,4 +7,5 @@ Creating a new branch is quick.
 
 git log --pretty=format:"%h - %an,  %ar, %ad : %s"
 git remote add origin git@github.com:cfsmile/learngit
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
